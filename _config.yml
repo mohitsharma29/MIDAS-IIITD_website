@@ -19,13 +19,13 @@ institution:
   url: http://iiitd.ac.in
   name: Indraprastha Institute of Information Technology, Delhi
 department:
-  url: http://bmb.uchospitals.edu
-  name: Biochemistry & Molecular Biology
+  url: 
+  name: 
 author :
-  name : D. Allan Drummond
-  email : dadrummond@uchicago.edu
-  github : dad
-  twitter : dadrummond
+  name : Hitkul
+  email : hitkuli@iiitd.ac.in
+  github : hitkul
+  twitter : 
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -36,7 +36,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://drummondlab.org
+production_url : https://midas.iiitd.edu.in
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -109,7 +109,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #
   analytics :
-    provider : google
+    provider : false
     google : 
       tracking_id : 'UA-62008526-1'
     getclicky :
@@ -131,7 +131,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-   provider : tweet
+   provider : false
    twitter :
      size :
      via :
