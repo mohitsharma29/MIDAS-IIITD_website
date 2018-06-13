@@ -3,21 +3,21 @@
 # permalink: /:categories/:year/:month/:day/:title 
 permalink: /:categories/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".sublime-project", ".sublime-workspace"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: rouge
 
 markdown: kramdown
 
-repository: drummondlab/drummondlab.github.io
+repository: Hitkul/MIDAS-IIITD_website
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Drummond Lab
-tagline: Evolution and regulation of protein production and quality control
+title : MIDAS@IIITD
+tagline: Placeholder tagline
 institution:
-  url: http://www.uchicago.edu
-  name: The University of Chicago
+  url: http://iiitd.ac.in
+  name: Indraprastha Institute of Information Technology, Delhi
 department:
   url: http://bmb.uchospitals.edu
   name: Biochemistry & Molecular Biology
