@@ -1,19 +1,4 @@
-# The Drummond Lab main website
-
-##
-
-
-### TODOS
-
-See Issues on [the site](https://github.com/drummondlab/drummondlab.github.io).
-
-## How to add content
-
-### News
-
-## Updating the public site
-
-All edits should be made on the `staging` branch.
+# The MIDAS@IIIT-Delhi main website
 
 
 ## License
