@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Testing MathJax"
+title: "MIDAS second blog"
 description: ""
-author_handle: dad
+author: "Dr. Rajiv"
+author_handle: Rajiv
 category: blog
 published: true
+theme: lab
 tags: []
 ---
 {% include JB/setup %}
-
 We do plenty of math, so I'd like to test out [MathJax](https://www.mathjax.org/) support.
 
 Here is an example of MathJax inline rendering --- \\( 1/x^{2} \\). And here is a block rendering:
@@ -25,4 +26,3 @@ or even an inline formula like \\( \sum_{t=0}^{\infty} \frac{x^t}{t!} = e^x\\).
 Or we could try defining a command, like this. \\( 	\newcommand{\water}{\mathrm{H}_{2}\mathrm{O}} \\)
 
 > Buffer slides off the sides of our tubes like \\(\water\\) off a duck's back.
-
