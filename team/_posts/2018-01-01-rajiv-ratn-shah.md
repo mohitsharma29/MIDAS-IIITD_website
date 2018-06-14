@@ -6,7 +6,7 @@ type: Faculty
 nickname: rajiv
 handle: rajiv
 email: rajivratn@iiitd.ac.in
-profile_link: 
+profile_link: https://www.iiitd.edu.in/~rajivratn/index.html
 twitter: demo
 github: demo
 scholar: 

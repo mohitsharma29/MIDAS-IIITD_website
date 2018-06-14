@@ -3,7 +3,7 @@ layout: post
 title: "MIDAS second blog"
 description: ""
 author: "Dr. Rajiv"
-author_handle: Rajiv
+author_handle: rajiv
 category: blog
 published: true
 theme: lab
