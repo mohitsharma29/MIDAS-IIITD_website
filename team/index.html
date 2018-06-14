@@ -8,12 +8,51 @@ navorder: 2
 {% include JB/setup %}
 
 <div class="bigspacer"></div>
+
+<div class="bigtitle text-center">Faculty</div>
+<div class="bigspacer"></div>
+{% assign faculty = site.categories.team | where: "alum","false" | where: "type","Faculty" %}
+{% assign memberindex = 0 %}
+{% for member in faculty %}
+	{% assign memberindex = memberindex | plus: 1 %}
+	{% assign colindex = memberindex | modulo: 3 %}
+	{% if colindex == 1 %} <!-- opening of a new row -->
+	<div class="row">
+	{% endif %}
+	<div class="col-md-4 memberbox">
+		<div class="media">
+				{% if member.profile_link %}
+					<a class="pull-left" href="{{ member.profile_link }}">
+				{% else %}
+					<a class="pull-left" href="{{ member.url }}">
+				{% endif %}
+				<img class="media-object member-photo" src="{{ member.image }}">
+				</a>
+			 	<div class="media-body">
+					{% if member.profile_link %}
+						<div class="head media-heading member-name"><a href="{{ member.profile_link }}" class="off">{{ member.title }}</a></div>
+					{% else %}
+						<div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+					{% endif %}
+				<p class="note">{{ member.position }}</p>
+				</div>
+		</div>
+    </div>	  
+	{% if colindex == 0 %} <!-- closing a row -->
+	</div><div class="bigspacer"></div>
+	{% endif %}
+{% endfor %}
+{% if colindex != 0 %} <!-- close last open row -->
+</div><div class="bigspacer"></div>
+{% endif %}
+
+<!-- 
 {% assign current_team = site.categories.team | where: "alum","false"%}
 {% assign memberindex = 0 %}
 {% for member in current_team reversed %}
 	{% assign memberindex = memberindex | plus: 1 %}
 	{% assign colindex = memberindex | modulo: 3 %}
-	{% if colindex == 1 %} <!-- opening of a new row -->
+	{% if colindex == 1 %} 
 	<div class="row">
 	{% endif %}
 	<div class="col-md-4 memberbox">
@@ -27,16 +66,16 @@ navorder: 2
 				</div>
 		</div>
     </div>	  
-	{% if colindex == 0 %} <!-- closing a row -->
+	{% if colindex == 0 %} 
 	</div><div class="bigspacer"></div>
 	{% endif %}
 {% endfor %}
-{% if colindex != 0 %} <!-- close last open row -->
+{% if colindex != 0 %} 
 </div><div class="bigspacer"></div>
-{% endif %}
+{% endif %} -->
 
 <div class="bigspacer"></div>
-<hr/>
+<!-- <hr/>
 
 <div class="row">
 	<div class="col-md-12">
@@ -45,7 +84,7 @@ navorder: 2
 </div>
 
 <div class="bigspacer"></div>
-<hr/>
+<hr/> -->
 <div class="bigtitle text-center">Alumni</div>
 <div class="bigspacer"></div>
 
