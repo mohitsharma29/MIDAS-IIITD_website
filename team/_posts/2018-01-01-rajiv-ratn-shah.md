@@ -3,7 +3,7 @@ layout: member
 title: "Dr. Rajiv Ratn Shah"
 position: Assistant Professor
 type: Faculty
-nickname: rajiv
+nickname: Rajiv
 handle: rajiv
 email: rajivratn@iiitd.ac.in
 profile_link: https://www.iiitd.edu.in/~rajivratn/index.html
