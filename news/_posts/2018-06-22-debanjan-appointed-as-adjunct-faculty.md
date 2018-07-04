@@ -8,5 +8,6 @@ category: news
 tags: [other]
 ---
 MIDAS collaborator, [Dr Debanjan Mahata][1], is appointed as an adjunct faculty at [IIIT-Delhi][2]. 
+
 [1]: https://www.linkedin.com/in/debanjanmahata/
 [2]: http://iiitd.ac.in/
