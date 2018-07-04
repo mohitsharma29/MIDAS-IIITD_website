@@ -4,7 +4,7 @@ title: "FastShrinkage: Perceptually-aware Retargeting Toward Mobile Platforms"
 year: "2017"
 shortref: 
 nickname: FastShrinkage
-journal: Proceedings of the 2017 ACM Multimedia Conference, United States, October 23-27
+journal: ACM Multimedia Conference, United States, October 23-27
 volume: 
 issue: 
 pages: 501-509
