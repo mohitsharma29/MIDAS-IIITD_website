@@ -7,7 +7,7 @@ image: /assets/images/news/default-news.png
 category: news
 tags: [award]
 ---
-MIDAS students, [Hitkul][1], [Shivangi Singhal][2], and Himanshu Aggarwal, got selected for six months fully funded internship at [National Institute of Informatics], Tokyo, Japan. 
+MIDAS students, [Hitkul][1], [Shivangi Singhal][2], and Himanshu Aggarwal, got selected for six months fully funded internship at [National Institute of Informatics][3], Tokyo, Japan. 
 
 [1]: /team/hikul
 [2]: /team/shivangi
