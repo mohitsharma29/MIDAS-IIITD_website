@@ -9,5 +9,5 @@ tags: [new_member]
 ---
 [Hitkul][1] joined as the first intern of the MIDAS lab under the supervision of [Prof Rajiv Ratn Shah][2].
 
-[1]: /team/hitkul
+[1]: /team/hitkul.html
 [2]: https://www.iiitd.ac.in/rajivratn

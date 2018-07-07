@@ -9,5 +9,5 @@ tags: [award]
 ---
 MIDAS student, [Shivangi Singhal][1], got selected for the [ACM India Grad Cohort 2018][2] which will be held in IIIT Bombay. 
 
-[1]: /team/shivangi
+[1]: /team/shivangi.html
 [2]: https://www.cse.iitb.ac.in/~acmindiacohort/
