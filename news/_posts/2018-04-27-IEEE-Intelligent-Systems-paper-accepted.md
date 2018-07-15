@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Paper accepted in  IEEE Intelligent Systems on Affective Computing and Sentiment Analysis.
+title: "Paper accepted in IEEE, ACSA.
 "
 author: "Dr. Rajiv Ratn Shah"
 author_handle: "rajiv"

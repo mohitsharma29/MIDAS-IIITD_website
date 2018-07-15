@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Dr Debanjan Mahata, is appointed as an adjunct faculty IIIT-Delhi"
+title: "Dr. Debanjan, is now an adjunct faculty IIIT-Delhi"
 author: "Dr. Rajiv Ratn Shah"
 author_handle: "rajiv"
 image: /assets/images/news/default-news.png

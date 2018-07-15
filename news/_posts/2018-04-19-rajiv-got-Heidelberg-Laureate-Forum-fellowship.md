@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Dr. Rajiv Ratn Shah, got selected for the Heidelberg Laureate Forum fellowship 2018"
+title: "Dr. Rajiv, got the Heidelberg Laureate Forum fellowship 2018"
 author: "Dr. Rajiv Ratn Shah"
 author_handle: "rajiv"
 image: /assets/images/news/default-news.png

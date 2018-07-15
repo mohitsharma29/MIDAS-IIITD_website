@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Hitkul, Shivangi Singhal, and Himanshu Aggarwal got internship at NII,Japan"
+title: "Hitkul, Shivangi and Himanshu got internship at NII"
 author: "Dr. Rajiv Ratn Shah"
 author_handle: "rajiv"
 image: /assets/images/news/default-news.png

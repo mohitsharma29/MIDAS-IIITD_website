@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Dr. Rajiv Ratn Shah organized MR2AMC "
+title: "Dr. Rajiv organized MR2AMC "
 author: "Dr. Rajiv Ratn Shah"
 author_handle: "rajiv"
 image: /assets/images/news/default-news.png

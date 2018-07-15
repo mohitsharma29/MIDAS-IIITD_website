@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Prof Rada Mihalcea delivere keynote in MR2AMC"
+title: "Prof. Rada delivere keynote in MR2AMC"
 author: "Dr. Rajiv Ratn Shah"
 author_handle: "rajiv"
 image: /assets/images/news/default-news.png

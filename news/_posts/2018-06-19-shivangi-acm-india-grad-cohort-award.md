@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Shivangi Singhal, got selected for the ACM India Grad Cohort 2018"
+title: "Shivangi, got the ACM India Grad Cohort 2018"
 author: "Dr. Rajiv Ratn Shah"
 author_handle: "rajiv"
 image: /assets/images/news/default-news.png
