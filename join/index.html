@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Join"
+description: "About"
+group: navigation
+navorder: 6
+---
+{% include JB/setup %}
+{% for page in site.categories.misc %}
+{% if page.about %}
+	{% assign aboutpage = page %}
+{% endif %}
+{% endfor %}
+
+{{ aboutpage.content }}
