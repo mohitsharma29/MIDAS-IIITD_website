@@ -28,6 +28,19 @@
 
 <div class="row">
 	<div class="col-md-3">  			
+		
+		{% if member.profile_link %}		
+		<div class="smallhead">
+			Website
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-external-link-square"></i>
+			<a class="off" href="{{ member.profile_link }}">{{ member.profile_link }}</a>
+		</div>		
+		<div class="bigspacer"></div>				
+		{% endif %}
+		
 		{% if member.cv %}		
 		<div class="smallhead">
 			CV
@@ -49,7 +62,8 @@
 			<a class="off" href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a>
 		</div>		
 		<div class="bigspacer"></div>				
-		{% endif %}	
+		{% endif %}
+
 		{% if member.github %}
 		<div class="smallhead">
 			GitHub
