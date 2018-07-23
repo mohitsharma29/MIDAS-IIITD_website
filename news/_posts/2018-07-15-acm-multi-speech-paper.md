@@ -5,7 +5,7 @@ author: "Dr. Rajiv Ratn Shah"
 author_handle: "rajiv"
 image: /assets/images/news/default-news.png
 category: news
-tags: [award]
+tags: [publication]
 ---
 A paper titled, "Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed", got accepted in the Brave New Idea track of ACM Multimedia 2018 (approx 8% acceptance rate). Congratulation to authors: [Yaman Kumar][1], [Mayank Aggarwal][2], [Pratham Nawal][3], [Shin'ichi Satoh][4], [Rajiv Ratn Shah][5], [Roger Zimmerman][6]. 
 

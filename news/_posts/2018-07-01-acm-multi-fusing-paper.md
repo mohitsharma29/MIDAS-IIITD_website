@@ -5,7 +5,7 @@ author: "Dr. Rajiv Ratn Shah"
 author_handle: "rajiv"
 image: /assets/images/news/default-news.png
 category: news
-tags: [award]
+tags: [publication]
 ---
 MIDAS founder and collaborators, [Rajiv Ratn Shah][1], [Yifang Yin][2], and [Roger Zimmermann][3] published a full paper titled, "Learning and Fusing Multimodal Deep Features for Acoustic Scene Categorization", in the ACM Multimedia 2018, a premier conference for multimedia research. 
 
