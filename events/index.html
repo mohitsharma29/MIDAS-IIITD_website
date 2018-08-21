@@ -1,0 +1,40 @@
+---
+layout: default
+title: "Events"
+description: "Events organized by lab"
+group: navigation
+navorder: 6
+---
+{% include JB/setup %}
+<div class="bigspacer"></div>
+<div class="title">
+  <hr/>
+    Events organized by MIDAS@IIITD
+  <hr/>
+</div>
+{% for event in site.categories.events %}
+<div class="bigspacer"></div>
+<div class='row'>
+<!--   
+  <div class='row'>
+    <div class='col-md-12'>
+    <div class="media">
+      <a class="project-image" href="{{ project.url }}">
+        <img class="media-object" src="{{ project.image }}">
+      </a>
+    </div>
+  </div>
+  -->
+  
+  <div class='row'>
+    <div class="col-md-4 paperbox">
+      <div class="head media-heading"><a href = "{{ event.link }}">{{ event.title }}</a></div>
+    </div>
+    <div class='col-md-8' align="justify">
+      {{ event.content }}
+    </div>
+  </div>
+</div>
+<div class="bigspacer"></div>
+{% endfor %}
+<div class="bigspacer"></div>
