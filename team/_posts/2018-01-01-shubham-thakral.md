@@ -13,6 +13,6 @@ github: shubham2398
 scholar: 
 image: /assets/images/team/shubham.jpeg
 cv: /assets/pdfs/shubham.pdf
-alum: false
+alum: true
 ---
 I'm Shubham, a software enthusiast and always willing to learn and try out new things. Some time back machine learning caught my eye and here I'm learning and implementing stuff with the interesting and intriguing concepts of deep learning and machine learning. Apart from tech, music, particularly English pop is what I relish listening to. 
