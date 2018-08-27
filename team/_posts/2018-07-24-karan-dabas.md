@@ -11,7 +11,7 @@ profile_link:
 twitter: kd3423
 github: kd3423
 scholar: 
-image: /assets/images/team/my_img-Karan-Dabas.jpeg
+image: /assets/images/team/Karan-Dabas.jpeg
 cv: /assets/pdfs/cv-Karan-Dabas.pdf
 alum: false
 ---
