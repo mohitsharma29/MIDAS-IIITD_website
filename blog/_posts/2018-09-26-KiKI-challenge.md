@@ -7,7 +7,6 @@ category: blog
 tags: [other]
 ---
 {% include JB/setup %}
-#Kiki Kills : Not Every Challenge is worth taking
 ## Introduction 
 ### What is this challenge about? 
 One of the most famous online social media challenge these days is the Kiki challenge. Also known as “In My Feelings Challenge” or “Do The Shiggy”, it originated when a comedian Shiggy released a video, dancing on the road to the tunes of this song by Drake. Since then people have considered it to be a challenge in which they need to get down of a moving car, and dance alongside the traffic risking their lives and getting their video captured.
