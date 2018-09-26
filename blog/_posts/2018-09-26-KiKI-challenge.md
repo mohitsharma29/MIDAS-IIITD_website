@@ -12,8 +12,6 @@ tags: [other]
 ### What is this challenge about? 
 One of the most famous online social media challenge these days is the Kiki challenge. Also known as “In My Feelings Challenge” or “Do The Shiggy”, it originated when a comedian Shiggy released a video, dancing on the road to the tunes of this song by Drake. Since then people have considered it to be a challenge in which they need to get down of a moving car, and dance alongside the traffic risking their lives and getting their video captured.
 
-<iframe width="560" height="315" src="https://instagram.fdel7-1.fna.fbcdn.net/vp/4d6ad2ee27d81480c5722553e4347870/5BA703D6/t50.2886-16/36017006_467794563651053_141880967563313152_n.mp4" frameborder="0" allow="encrypted-media"></iframe>
-
 ### How popular is the challenge ?
 There is no country which has been left untouched when it comes to this. It originated in Canada and spread over the world including United States, Mexico, United Kingdom, India, South Africa, Costa Rica, Egypt, Argentina and so on. People are sharing thousands of tweets commonly involving their videos on a daily basis on social platforms like Twitter and Facebook.
 
@@ -51,7 +49,7 @@ Although the current model is fair enough to generate good results, it can surel
 We also plan to create a hybrid model which can take into account both the textual and visual data in a tweet and generate results more accurately.
 
 ### The following video provides a complete summary:
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1cU8REZhDGT3eEpz_txBRLxauRTKHdY15/view?usp=sharing" frameborder="0" allow="encrypted-media"></iframe>
+<iframe src="https://drive.google.com/file/d/1cU8REZhDGT3eEpz_txBRLxauRTKHdY15/preview" width="640" height="480"></iframe>
 
 
 ## About Us: 
