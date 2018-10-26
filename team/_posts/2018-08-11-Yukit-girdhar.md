@@ -13,6 +13,6 @@ github:
 scholar: 
 image: /assets/images/team/yukit-girdhar.jpg
 cv: /assets/pdfs/yukit-girdhar.pdf
-alum: false
+alum: true
 ---
 I am Yukti, graduated from Computer Engineering NSIT in 2018. I am currently working as Software developer at Deutsche Bank, I am extremely interested in NLP and it's applications in languages other than english so did my final year project on hindi story sentence classification.

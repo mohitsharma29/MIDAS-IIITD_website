@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Shashwat Aggarwal"
-position:B.Tech Student
+position: B.Tech Student
 type: intern
 organization: NSIT
 nickname: shashwat
