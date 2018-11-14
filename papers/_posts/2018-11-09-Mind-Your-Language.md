@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Mind Your Language: Abuse and Offense Detection for Code-Switched Languages"
-year: "2018"
+year: "2019"
 shortref: 
 nickname: 
-journal: 
+journal: AAAI
 volume: 
 issue: 
 pages:
