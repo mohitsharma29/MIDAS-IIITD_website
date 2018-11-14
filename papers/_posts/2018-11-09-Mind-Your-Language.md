@@ -10,7 +10,7 @@ issue:
 pages:
 authors: "Raghav Kapoor, Yaman Kumar, Kshitij Rajput, Rajiv Ratn Shah, Ponnurangam Kumaraguru, Roger Zimmermann"
 image: /assets/images/papers/default-paper.svg
-pdf: /assets/pdfs/Kiki_Kills__Not_Every_Challenge_is_Worth_Taking__Student_Paper_.pdf
+pdf: 
 pdflink: 
 github:
 pmid: 
