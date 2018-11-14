@@ -4,8 +4,8 @@ title: "Did you offend me? Classification of Offensive Tweets in Hinglish Langua
 year: "2018"
 shortref: 
 nickname: 
-journal: 
-volume: 
+journal: EMNLP
+volume: AWL2
 issue: 
 pages:
 authors: "Puneet Mathur, Ramit Sawhney, Megha Ayyar, Rajiv Ratn Shah"

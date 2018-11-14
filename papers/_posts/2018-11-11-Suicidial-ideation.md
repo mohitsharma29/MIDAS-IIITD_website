@@ -4,8 +4,8 @@ title: "Exploring and Learning Suicidal Ideation Connotations in Social Media wi
 year: "2018"
 shortref: 
 nickname: 
-journal: 
-volume: 
+journal: EMNLP 
+volume: WASSA
 issue: 
 pages:
 authors: "Ramit Sawhney, Rajiv Ratn Shah, Puneet Mathur, Prachi Manchanda, Raj Singh"
