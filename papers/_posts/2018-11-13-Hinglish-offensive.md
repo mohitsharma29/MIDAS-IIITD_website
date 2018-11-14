@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Identification of Emergency Blood Donation Request on Twitter"
+title: "Did you offend me? Classification of Offensive Tweets in Hinglish Language"
 year: "2018"
 shortref: 
 nickname: 
@@ -8,7 +8,7 @@ journal:
 volume: 
 issue: 
 pages:
-authors: "Puneet Mathur, Megha Ayyar, Sahil Chopra, Simra Shahid, Laiba Mehnaz, Rajiv Ratn Shah"
+authors: "Puneet Mathur, Ramit Sawhney, Megha Ayyar, Rajiv Ratn Shah"
 image: /assets/images/papers/default-paper.svg
 pdf:
 pdflink: 
