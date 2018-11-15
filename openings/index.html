@@ -28,7 +28,12 @@ navorder: 7
 
     <div class='row'>
         <div class="col-md-4 paperbox">
-            <div class="head media-heading">{{ opening.title }}</div>
+            <div class="head media-heading">{{ opening.post }}</div>
+            <div class="media-heading imp-info">
+                <h3>Deadline </h3><b> {{ opening.deadline}} </b>
+                <h3>Duration </h3> {{ opening.duration }}
+                <h3>Stipend </h3> {{ opening.stipend }}
+            </div>
         </div>
         <div class='col-md-8' align="justify">
             {{ opening.content }}
