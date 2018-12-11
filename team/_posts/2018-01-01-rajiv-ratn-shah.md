@@ -1,6 +1,6 @@
 ---
 layout: member
-title: "Dr. Rajiv Ratn Shah"
+title: "Rajiv Ratn Shah"
 position: Assistant Professor
 type: Faculty
 organization: IIIT-Delhi
