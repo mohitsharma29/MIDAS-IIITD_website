@@ -7,6 +7,37 @@ navorder: 7
 ---
 {% include JB/setup %}
 <div class="bigspacer"></div>
+
+
+<div class="title">
+    <hr />
+    Recent Openings
+    <hr />
+</div>
+{% for opening in site.categories.openings %}
+<div class='row'>
+<!--   
+<div class='row'>
+<div class='col-md-12'>
+<div class="media">
+  <a class="project-image" href="{{ project.url }}">
+    <img class="media-object" src="{{ project.image }}">
+  </a>
+</div>
+</div>
+-->
+
+<div class='row'>
+    <div class="col-md-4 paperbox">
+        <h2><a href="{{ opening.link }}">{{ opening.post }} </a></h2> - {{ opening.deadline }}
+    </div>
+</div>
+</div>
+<!-- <div class="bigspacer"></div> -->
+{% endfor %}
+
+
+
 <div class="title">
     <hr />
     How to Apply?
@@ -32,31 +63,4 @@ navorder: 7
     society. If you are interested to collaborate with MIDAS then feel free to call us at +91-11-26907495 or
     email us at midas@iiitd.ac.in</p>
 
-    <div class="title">
-        <hr />
-        Recent Openings
-        <hr />
-    </div>
-{% for opening in site.categories.openings %}
-<div class="bigspacer"></div>
-<div class='row'>
-    <!--   
-  <div class='row'>
-    <div class='col-md-12'>
-    <div class="media">
-      <a class="project-image" href="{{ project.url }}">
-        <img class="media-object" src="{{ project.image }}">
-      </a>
-    </div>
-  </div>
-  -->
-
-    <div class='row'>
-        <div class="col-md-4 paperbox">
-            <h2><a href="{{ opening.link }}">{{ opening.post }} </a></h2> - {{ opening.deadline }}
-        </div>
-    </div>
-</div>
-<div class="bigspacer"></div>
-{% endfor %}
 <div class="bigspacer"></div>
