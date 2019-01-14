@@ -13,6 +13,6 @@ github: varnit15112
 scholar: 
 image: /assets/images/team/varnit-jain.jpg
 cv: /assets/pdfs/varnit-jain.pdf
-alum: false
+alum: true
 ---
 I'm an undergraduate student who likes to tinker with data and hardware. Love to use Data Science and HCI to solve problems.
