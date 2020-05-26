@@ -13,7 +13,7 @@ github: mpiplani
 scholar: deDXcpEAAAAJ&hl=en&authuser=1
 image: /assets/images/team/mehak.jpg 
 cv:
-alum: false
+alum: true
 ---
 
 I am a CS undergraduate studentat Indian Institute of Information Technology. My research intreset lies in data science and I love using achine learning for solving problems. Other than work I enjoy tarvelling.

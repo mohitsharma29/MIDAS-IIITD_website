@@ -13,5 +13,5 @@ github: vaibhavvarshney0
 scholar:
 image: /assets/images/team/vaibhav.jpg
 cv: /assets/pdfs/vaibhav.pdf
-alum: false
+alum: true
 ---

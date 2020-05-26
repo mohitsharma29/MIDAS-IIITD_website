@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Exploring Classification of Histological Disease Bio-markers from Renal Biopsy Images"
-year: "2019"
+year: "2018"
 shortref: 
 nickname: 
 journal: WACV

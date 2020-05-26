@@ -13,7 +13,7 @@ github: HarshVardhanSh
 scholar:  
 image: /assets/images/team/harsh.png 
 cv: /assets/pdfs/harshscv.pdf 
-alum: false
+alum: true
 ---
 
 I'm a Bachelors in Engineering (Computer Science) third-year student working in the field of Deep Learning. I'm a result-oriented, highly motivated, focused and hardworking student who wants to work in Artificial Intelligence Research & Development. 

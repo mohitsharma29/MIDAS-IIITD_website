@@ -1,6 +1,6 @@
 ---
 layout: member
-title: "Shivli Agrawal "
+title: "Shivli Agrawal"
 position: SDE
 type: intern
 organization: Microsoft

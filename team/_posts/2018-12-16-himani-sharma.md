@@ -13,5 +13,5 @@ github: himani17014
 scholar:
 image: /assets/images/team/himani.jpg
 cv: /assets/pdfs/Resume_MT17014_HimaniSharma.pdf
-alum: false
+alum: true
 ---

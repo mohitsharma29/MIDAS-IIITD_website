@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Apoorv Bhardwaj"
-position: B.Tech Student
+position: Research Assistant
 type: intern
 organization: DTU
 nickname: Apoorv

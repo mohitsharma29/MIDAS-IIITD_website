@@ -3,6 +3,7 @@ layout: post
 title: "Mind Your Language"
 author: "Raghav Kapoor"
 author_handle: "Raghav"
+abstract: "This blog is about our research project where we studied abuse and offense detection in the code switched pair of Hindi and English(i.e., Hinglish) under the expert guidance of Dr. Rajiv Ratn Shah, Dr. Roger Zimmermann, and Dr. Ponnurangam Kumaraguru."
 category: blog
 tags: [other]
 ---

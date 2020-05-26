@@ -13,6 +13,6 @@ github: dhruva15026
 scholar: 
 image: /assets/images/team/Dhruva-Sahrawat.jpg
 cv: 
-alum: false
+alum: true
 ---
-I am a CSE undergrad at IIIT Delhi. I work primarily in Deep Learning, NLP and Computer Vision. 
+I am a CSE undergrad at IIIT Delhi. I work primarily in Deep Learning, NLP and Computer Vision.

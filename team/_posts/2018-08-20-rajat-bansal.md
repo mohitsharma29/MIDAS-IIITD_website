@@ -13,6 +13,6 @@ github: rajat1401
 scholar: 
 image: /assets/images/team/rajat-bansal.jpg
 cv: /assets/pdfs/CV-RAJAT BANSAL.pdf
-alum: false
+alum: true
 ---
 Aspiring Data Scientist, an avid reader and a pro foodie. Likes to travel and meet exciting people. Somewhat of an introvert, so that's it.  

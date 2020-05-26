@@ -13,7 +13,7 @@ scholar:
 github: ramitsawhney27
 scholar: https://scholar.google.co.in/citations?user=kPmmgjoAAAAJ 
 image: /assets/images/team/IMG_9517.jpg
-cv: 
+cv: https://www.linkedin.com/in/ramit-sawhney-3064a110b/
 alum: false
 ---
 I'm currently working as a Core Engineering Software Developer at Tower Research Capital on Machine Learning problems. A recent graduate and department rank 1 from NSIT, Delhi, my research interests include Natural Language Processing, Evolutionary Computation and Biomedical and Financial applications of Machine Learning. 

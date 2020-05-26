@@ -18,7 +18,6 @@ navorder: 3
   <div class="col-md-4 paperbox">
     {% if paper.embargo %}
     <div class="media">
-         <img width=100 class="media-object pull-right" src="{{ paper.image }}"/>
         <div class="media-body">
           <div class="smallhead media-heading">
           {{ paper.title }}
@@ -29,11 +28,11 @@ navorder: 3
     {% else %}
    <div class="media">
         <a class="pull-right" href="{{ paper.url }}">
-          <img width=100 class="media-object" src="{{ paper.image }}">
         </a>
       <div class="media-body">
           <div class="smallhead media-heading">
           <a href="{{ paper.url }}" class="off">{{ paper.title }}</a>
+          {{ paper.year }}
           </div>
           <p class="note">{{ paper.shortref }}</p>
       </div>

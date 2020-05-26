@@ -13,7 +13,7 @@ github: Raghav1606
 scholar: https://scholar.google.co.in/citations?hl=en&user=8eJoJ0MAAAAJ
 image: /assets/images/team/Raghav_pic.jpeg
 cv: /assets/pdfs/Raghav_CV.pdf
-alum: false
+alum: true
 ---
 I am an undergraduate student from Netaji Subhas Institute of Technology, Delhi with great academic record and position and have been awarded merit scholarship for the same. I am a hardworking and passionate student and have keen interest in the field of Artificial Intellignce and currently working as a research intern in the MIDAS Labs IIITD where I work on projects related to Natural Language Processing (NLP), Deep Learning, Data Mining and Computer Vision. I have also published a research paper titled "Mind Your Language : Abuse and Offense Detection using Code-Switched Language" in the prestigious conference AAAI - 19. 
 

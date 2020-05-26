@@ -13,6 +13,6 @@ github: imshashwataggarwal
 scholar: 
 image: /assets/images/team/shashwat-aggarwal.jpg
 cv: /assets/pdfs/shashwat-aggarwal-resume.pdf
-alum: false
+alum: true
 ---
 Hi, I am Shashwat Aggarwal, a final year CS undergraduate student at NSIT Delhi. My research interests revolve around Natural Language Processing, Computer Vision and Deep Learning.

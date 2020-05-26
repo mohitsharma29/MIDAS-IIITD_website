@@ -13,7 +13,7 @@ github: himanshu0113
 scholar: 
 image: /assets/images/team/himanshuaggarwal.jpg
 cv: /assets/pdfs/himanshuaggarwal.pdf 
-alum: false
+alum: true
 ---
 
 I'm a post-grad student at IIIT Delhi. Currently, I am working on cross-modal retrieval systems. My research interest include information retrieval and machine learning. I like reading research papers and paiting. 

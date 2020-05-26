@@ -13,6 +13,6 @@ github: trinity97
 scholar:
 image: /assets/images/team/midas_abhishek.jpg
 cv: /assets/pdfs/abhishek_resume.pdf
-alum: false
+alum: true
 ---
 I am an Undergraduate Researcher in the Computer Science Department at Indraprastha Institute of Information Technology, Delhi under the guidance of Prof. Rajiv Ratn Shah. I am interested in using deep learning for solving social issues and just doing some fun projects. I am a fan of books, anime and all things informative.
