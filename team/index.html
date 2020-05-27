@@ -289,8 +289,9 @@ navorder: 2
 <div class="bigspacer"></div>
 
 <!--
-	Changed modulo index to 6 on line 299 to fit more members
-	Changes to col-md-2 to make alumni names small on line 304
+	Changed modulo index to 6 on line 301 to fit more members
+	Changes to col-md-2 to make alumni names small on line 305
+	Removed Head class from div on line 308
 -->
 
 {% assign alumni = site.categories.team | where: "alum","true"%}
@@ -304,7 +305,7 @@ navorder: 2
 	<div class="col-md-2 memberbox">
 		<div class="media">
 			 	<div class="media-body">
-				<div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+				<div class="media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
 				<p class="note">{{ member.position }}, {{ member.organization }}</p>
 				</div>
 		</div>
