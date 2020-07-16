@@ -4,12 +4,11 @@ title: "Text2FaceGAN: Face Generation from Fine Grained Textual Descriptions"
 year: "2020"
 shortref: 
 nickname: 
-journal: IEEE BigMM
+journal: "IEEE BigMM"
 volume: 
 issue: 
 pages: 58
-authors: "Osaid Rehman Nasir, Shailesh Kumar Jha, Manraj Singh Grover, Yi Yu, Ajit Kumar, Rajiv
-Ratn Shah"
+authors: "Osaid Rehman Nasir, Shailesh Kumar Jha, Manraj Singh Grover, Yi Yu, Ajit Kumar, Rajiv Ratn Shah"
 image: /assets/images/papers/default-paper.svg
 pdf: 
 pdflink: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8919389

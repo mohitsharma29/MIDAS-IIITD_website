@@ -12,29 +12,35 @@ navorder: 1
     Active Projects
   <hr/>
 </div>
+
+<div class="bigspacer"></div>
+{% assign projectindex = 0 %}
 {% for project in site.categories.projects %}
-<div class="bigspacer"></div>
-<div class='row'>
-<!--   
-  <div class='row'>
-    <div class='col-md-12'>
-    <div class="media">
-      <a class="project-image" href="{{ project.url }}">
-        <img class="media-object" src="{{ project.image }}">
-      </a>
+    {% assign projectindex = projectindex | plus: 1 %}
+    {% assign colindex = projectindex | modulo: 3 %}
+    {% if colindex == 1 %} <!-- Open a new row of projects display-->
+    <div class='row'>
+    {% endif %}
+    <!--   
+    <div class='row'>
+        <div class='col-md-12'>
+        <div class="media">
+        <a class="project-image" href="{{ project.url }}">
+            <img class="media-object" src="{{ project.image }}">
+        </a>
+        </div>
     </div>
-  </div>
-  -->
-  
-  <div class='row'>
+    -->
     <div class="col-md-4 paperbox">
-      <div class="head media-heading">{{ project.title }}</div>
+        <a class="pull-left" href="{{project.url}}">
+        <div class="head media-heading">{{ project.title }}</div>
+        </a>
     </div>
-    <div class='col-md-8' align="justify">
-      {{ project.content }}
-    </div>
-  </div>
-</div>
-<div class="bigspacer"></div>
+    {% if colindex == 0 %} <!-- closing a row -->
+        </div><div class="bigspacer"></div>
+    {% endif %}
 {% endfor %}
+{% if colindex != 0 %} <!-- close last open row -->
+</div><div class="bigspacer"></div>
+{% endif %}
 <div class="bigspacer"></div>
